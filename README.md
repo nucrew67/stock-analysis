@@ -18,6 +18,7 @@ o	Steve wants to broaden the scope of the dataset to encompass the entire stock 
  
 
 •	In both scenarios, the initial 2017 & 2018 datasets took a little longer to run. In analyzing the same dataset, the refactored data scripts showed execution times less than the original script time scripts, thus indicating that refactoring data script sets will improve both overall speed and efficiency.
+
 •	Summary
 
 What are the advantages or disadvantages of refactored code?
